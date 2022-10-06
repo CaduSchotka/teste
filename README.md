@@ -4,6 +4,6 @@
 
 Teste teste teste, para rodar o projeto:
 
-...
- javac java.java
-...
+```
+ node app.js
+```
